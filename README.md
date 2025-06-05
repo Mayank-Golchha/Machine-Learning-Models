@@ -8,8 +8,8 @@ No `scikit-learn`, no black boxes — just math, code, and logic.
 
 ## 📂 Models Implemented
 
-| Model | Description | Status |
-|-------|-------------|--------|
+| Model  Status |
+|-------|--------|
 | 🧮 [Linear Regression](./linear_regression)  | ✅ Done |
 | 🔁 [Logistic Regression](./logistic_regression) | 🛠️ Coming soon |
 | 📈 Polynomial Regression  🛠️ Coming soon |
