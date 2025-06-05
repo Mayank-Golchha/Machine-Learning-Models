@@ -57,7 +57,7 @@ class LinearRegression:
         plt.show()
 
 
-data = pd.read_csv("data_for_lr.csv")
+data = pd.read_csv("data.csv")
 
 data = data.dropna()
 
