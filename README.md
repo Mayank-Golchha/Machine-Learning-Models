@@ -1,4 +1,3 @@
-# Machine-Learning-Models
 # 🤖 Machine Learning Models from Scratch
 
 Welcome to **Machine Learning Models** – a collection of core ML algorithms built by [Mayank Golchha](https://github.com/Mayank-Golchha) using pure **Python** , **NumPy** , **Pandas** , **Matplotlib** .  
