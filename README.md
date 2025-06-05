@@ -12,7 +12,7 @@ No `scikit-learn`, no black boxes — just math, code, and logic.
 |-------|--------|
 | 🧮 [Linear Regression](./linear_regression)  | ✅ Done |
 | 🔁 [Logistic Regression](./logistic_regression) | 🛠️ Coming soon |
-| 📈 Polynomial Regression  🛠️ Coming soon |
+| 📈 Polynomial Regression | 🛠️ Coming soon |
 | 🧠 More (SVM, Decision Trees, KNN...) | Stay tuned!  ⏳ Planned |
 
 ---
